@@ -68,6 +68,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/PankhuriSahay/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -85,6 +86,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0102-binary-tree-level-order-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/PankhuriSahay/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
 | ------- |
@@ -101,4 +103,8 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/3731-find-missing-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/PankhuriSahay/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
