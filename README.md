@@ -60,6 +60,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/PankhuriSahay/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -80,6 +82,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,4 +115,8 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/PankhuriSahay/Leetcode/tree/master/0035-search-insert-position) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
