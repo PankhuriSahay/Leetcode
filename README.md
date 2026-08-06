@@ -59,6 +59,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0102-binary-tree-level-order-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -69,6 +70,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0100-same-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -81,6 +83,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0102-binary-tree-level-order-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -90,6 +93,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0100-same-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/PankhuriSahay/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
