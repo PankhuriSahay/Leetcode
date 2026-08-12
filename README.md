@@ -22,6 +22,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0877-stone-game](https://github.com/PankhuriSahay/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PankhuriSahay/Leetcode/tree/master/1406-stone-game-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PankhuriSahay/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -136,6 +137,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Hash Table
 |  |
 | ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PankhuriSahay/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -204,4 +206,8 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PankhuriSahay/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
