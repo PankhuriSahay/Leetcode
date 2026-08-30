@@ -18,6 +18,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PankhuriSahay/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PankhuriSahay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PankhuriSahay/Leetcode/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/PankhuriSahay/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1140-stone-game-ii) |
@@ -223,6 +224,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PankhuriSahay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PankhuriSahay/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Prefix Sum
 |  |
