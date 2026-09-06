@@ -43,6 +43,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PankhuriSahay/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/PankhuriSahay/Leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/PankhuriSahay/Leetcode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PankhuriSahay/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PankhuriSahay/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -71,6 +72,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/PankhuriSahay/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/PankhuriSahay/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PankhuriSahay/Leetcode/tree/master/1406-stone-game-iii) |
