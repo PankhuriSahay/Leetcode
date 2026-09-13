@@ -20,6 +20,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0014-longest-common-prefix](https://github.com/PankhuriSahay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PankhuriSahay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PankhuriSahay/Leetcode/tree/master/0035-search-insert-position) |
+| [0835-image-overlap](https://github.com/PankhuriSahay/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/PankhuriSahay/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/PankhuriSahay/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -303,4 +304,8 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/PankhuriSahay/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/PankhuriSahay/Leetcode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
