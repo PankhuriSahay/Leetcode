@@ -52,6 +52,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0014-longest-common-prefix](https://github.com/PankhuriSahay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0115-distinct-subsequences](https://github.com/PankhuriSahay/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PankhuriSahay/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/PankhuriSahay/Leetcode/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PankhuriSahay/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -118,6 +119,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
 | ------- |
@@ -178,6 +180,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0104-maximum-depth-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/PankhuriSahay/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
@@ -198,6 +201,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/PankhuriSahay/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PankhuriSahay/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -212,6 +216,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PankhuriSahay/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -249,6 +254,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
