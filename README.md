@@ -54,6 +54,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0115-distinct-subsequences](https://github.com/PankhuriSahay/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PankhuriSahay/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PankhuriSahay/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PankhuriSahay/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/PankhuriSahay/Leetcode/tree/master/1927-sum-game) |
@@ -122,6 +123,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0094-binary-tree-inorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PankhuriSahay/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PankhuriSahay/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -349,4 +351,8 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PankhuriSahay/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PankhuriSahay/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PankhuriSahay/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
