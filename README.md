@@ -27,6 +27,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [1406-stone-game-iii](https://github.com/PankhuriSahay/Leetcode/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/PankhuriSahay/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PankhuriSahay/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PankhuriSahay/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/PankhuriSahay/Leetcode/tree/master/1872-stone-game-viii) |
@@ -89,6 +90,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [1406-stone-game-iii](https://github.com/PankhuriSahay/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PankhuriSahay/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PankhuriSahay/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/PankhuriSahay/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PankhuriSahay/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PankhuriSahay/Leetcode/tree/master/2029-stone-game-ix) |
@@ -115,6 +117,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PankhuriSahay/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/PankhuriSahay/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/PankhuriSahay/Leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/PankhuriSahay/Leetcode/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PankhuriSahay/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PankhuriSahay/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -159,6 +162,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PankhuriSahay/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -193,6 +197,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0543-diameter-of-binary-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PankhuriSahay/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -282,6 +287,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/PankhuriSahay/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -365,6 +371,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -404,4 +411,20 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PankhuriSahay/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/PankhuriSahay/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
