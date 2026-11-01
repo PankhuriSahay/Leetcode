@@ -20,6 +20,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 | [0014-longest-common-prefix](https://github.com/PankhuriSahay/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PankhuriSahay/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/PankhuriSahay/Leetcode/tree/master/0035-search-insert-position) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/PankhuriSahay/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/PankhuriSahay/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1140-stone-game-ii) |
@@ -96,6 +97,7 @@ I solve LeetCode regularly to strengthen my DSA and interview preparation.
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PankhuriSahay/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/PankhuriSahay/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PankhuriSahay/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/PankhuriSahay/Leetcode/tree/master/1140-stone-game-ii) |
